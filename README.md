@@ -18,7 +18,7 @@ A colorado board of election employees has given me he task to complete the elec
     -Charles Casper Stockham
     -Diana DeGette
     -Raymon Anthony Doane
-####   -The candidnt results were:
+####   -The candidate results were:
     -Charles Casper Stockham received 23% of the vote and 85,213 votes.
     -Diana DeGette received 73.8% of the vote and 272,892 votes.
     -Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
